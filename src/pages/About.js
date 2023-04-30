@@ -4,7 +4,7 @@ import posts from "./posts.json";
 
 function About() {
   const imgSrc =
-    "https://media.licdn.com/dms/image/C4E03AQFIY6uhcGpxUg/profile-displayphoto-shrink_400_400/0/1582079182490?e=1687996800&v=beta&t=2UXJejOawT38590jj1oHUEDeynRonS15L5C-_dV_DUk"; // Provide the image source URL
+    "https://media.licdn.com/dms/image/C4E03AQFIY6uhcGpxUg/profile-displayphoto-shrink_400_400/0/1582079182490?e=1687996800&v=beta&t=2UXJejOawT38590jj1oHUEDeynRonS15L5C-_dV_DUk";
 
   return (
     <div>
